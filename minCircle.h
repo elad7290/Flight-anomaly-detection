@@ -1,4 +1,4 @@
-// 20919279 31253197
+
 
 #ifndef MINCIRCLE_H_
 #define MINCIRCLE_H_
